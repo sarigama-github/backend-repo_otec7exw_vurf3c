@@ -1,0 +1,41 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [152] using StatReload
+INFO:     Started server process [154]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:39630 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:58908 - "GET /pricing HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58892 - "GET /questions?mode=technology&limit=1 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58908 - "GET /pricing HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58892 - "GET /questions?mode=technology&limit=1 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58918 - "GET /chat?limit=30 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58934 - "GET /blog HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58892 - "GET /chat?limit=30 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58918 - "GET /blog HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58964 - "GET /chat?limit=30 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58964 - "GET /chat?limit=30 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:58964 - "GET /chat?limit=30 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:39650 - "GET /chat?limit=30 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41682 - "GET /pricing HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41674 - "GET /questions?mode=technology&limit=1 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41688 - "GET /chat?limit=30 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41690 - "GET /blog HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41690 - "GET /blog HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41688 - "GET /chat?limit=30 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41674 - "GET /questions?mode=technology&limit=1 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41682 - "GET /pricing HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41682 - "GET /chat?limit=30 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:41722 - "GET /chat?limit=30 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47098 - "GET /chat?limit=30 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47114 - "GET /chat?limit=30 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47316 - "GET /chat?limit=30 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47316 - "GET /chat?limit=30 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47326 - "GET /chat?limit=30 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34438 - "GET /chat?limit=30 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:34446 - "GET /chat?limit=30 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59916 - "GET /chat?limit=30 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59916 - "GET /chat?limit=30 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59922 - "GET /chat?limit=30 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53006 - "GET /chat?limit=30 HTTP/1.1" 200 OK
+INFO:     172.20.0.1:53022 - "GET /chat?limit=30 HTTP/1.1" 200 OK
